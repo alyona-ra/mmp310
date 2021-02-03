@@ -236,12 +236,11 @@ main .content-wrapper .project-wrapper .right {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  height: 350px;
 }
 
 main .content-wrapper .project-wrapper .right img {
-  height: 100px;
-  -o-object-fit: cover;
-     object-fit: cover;
+  height: 100%;
 }
 
 main .social-links-wrapper {

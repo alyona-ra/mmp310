@@ -201,10 +201,10 @@ main {
       .right {
         display: flex;
         align-items: center;
+        height: 350px;
 
         img {
-          height: 100px;
-          object-fit: cover;
+          height: 100%;
         }
       }
     }
